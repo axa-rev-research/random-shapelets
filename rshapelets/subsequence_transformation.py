@@ -3,7 +3,7 @@ from multiprocessing import Pool
 from itertools import repeat
 import pyximport; pyximport.install()
 
-from tipy.subsequence_transformation.subsequence_transformation_cython import *
+from subsequence_transformation_cython import *
 
 def get_distance(panel, candidate, panel_test=None):
     """
