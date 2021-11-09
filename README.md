@@ -1,3 +1,7 @@
+__Disclaimer:__ This repository is not maintained anymore
+
+------
+
 # Random shapelets
 
 Implementation of the random-shapelet algorithm for a fast extraction of a feature-based representation from time series for classification based on the shapelet principle.
